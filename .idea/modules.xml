@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/petgo.iml" filepath="$PROJECT_DIR$/petgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petgo-api/petgo-api.iml" filepath="$PROJECT_DIR$/petgo-api/petgo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petgo-client/petgo-client.iml" filepath="$PROJECT_DIR$/petgo-client/petgo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petgo-core/petgo-core.iml" filepath="$PROJECT_DIR$/petgo-core/petgo-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petgo-param/petgo-param.iml" filepath="$PROJECT_DIR$/petgo-param/petgo-param.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petgo-server/petgo-server.iml" filepath="$PROJECT_DIR$/petgo-server/petgo-server.iml" />
+    </modules>
+  </component>
+</project>

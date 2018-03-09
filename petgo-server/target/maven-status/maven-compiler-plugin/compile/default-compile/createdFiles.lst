@@ -1,0 +1,5 @@
+com\petgoes\conf\MotanConfiguration.class
+com\petgoes\mapper\BasicMapper.class
+com\petgoes\mapper\user\UserMapper.class
+com\petgoes\server\UserServiceImpl.class
+com\petgoes\PetgoApplication.class
